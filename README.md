@@ -1,5 +1,4 @@
 # Payroll-Management-System
-<br>
 Author- Achint Verma
 <br>
 Payroll Management System
